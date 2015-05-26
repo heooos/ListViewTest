@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res/layout/fruit_item.xml" />
+    </issue>
+    <issue id="UseCompoundDrawables">
+        <ignore path="res/layout/fruit_item.xml" />
+    </issue>
+    <issue id="ViewHolder">
+        <ignore path="src/com/hao/listviewtest/FruitAdapter.java" />
+    </issue>
+</lint>
